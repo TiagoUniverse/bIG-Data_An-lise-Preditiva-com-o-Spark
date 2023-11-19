@@ -37,7 +37,7 @@ saida - existência de calculo renal
 
 ## 🔗 Link do repositório com todo o projeto
 
-https://colab.research.google.com/drive/1EZgq8vvdIxu4Vupk-WqpFj-5KPCdMHKd#scrollTo=OiGTsTA8GKMQ
+https://colab.research.google.com/drive/1EZgq8vvdIxu4Vupk-WqpFj-5KPCdMHKd?usp=sharing
 
 
 ## ☕ Desenvolvido por:
